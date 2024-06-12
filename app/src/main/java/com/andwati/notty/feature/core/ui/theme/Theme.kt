@@ -1,6 +1,5 @@
-package com.andwati.notty.ui.theme
+package com.andwati.notty.feature.core.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

@@ -1,4 +1,4 @@
-package com.andwati.notty.ui.theme
+package com.andwati.notty.feature.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
